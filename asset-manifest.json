@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/bringTheBoom/static/css/main.9caeab70.chunk.css",
-    "main.js": "/bringTheBoom/static/js/main.8b087d11.chunk.js",
-    "main.js.map": "/bringTheBoom/static/js/main.8b087d11.chunk.js.map",
+    "main.js": "/bringTheBoom/static/js/main.7d8ad4aa.chunk.js",
+    "main.js.map": "/bringTheBoom/static/js/main.7d8ad4aa.chunk.js.map",
     "runtime-main.js": "/bringTheBoom/static/js/runtime-main.71d8e59b.js",
     "runtime-main.js.map": "/bringTheBoom/static/js/runtime-main.71d8e59b.js.map",
-    "static/js/2.15af2cc9.chunk.js": "/bringTheBoom/static/js/2.15af2cc9.chunk.js",
-    "static/js/2.15af2cc9.chunk.js.map": "/bringTheBoom/static/js/2.15af2cc9.chunk.js.map",
+    "static/js/2.fee158ff.chunk.js": "/bringTheBoom/static/js/2.fee158ff.chunk.js",
+    "static/js/2.fee158ff.chunk.js.map": "/bringTheBoom/static/js/2.fee158ff.chunk.js.map",
     "index.html": "/bringTheBoom/index.html",
     "static/css/main.9caeab70.chunk.css.map": "/bringTheBoom/static/css/main.9caeab70.chunk.css.map",
-    "static/js/2.15af2cc9.chunk.js.LICENSE.txt": "/bringTheBoom/static/js/2.15af2cc9.chunk.js.LICENSE.txt",
+    "static/js/2.fee158ff.chunk.js.LICENSE.txt": "/bringTheBoom/static/js/2.fee158ff.chunk.js.LICENSE.txt",
     "static/media/App.css": "/bringTheBoom/static/media/background_photo_desktop.a0687f3f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.71d8e59b.js",
-    "static/js/2.15af2cc9.chunk.js",
+    "static/js/2.fee158ff.chunk.js",
     "static/css/main.9caeab70.chunk.css",
-    "static/js/main.8b087d11.chunk.js"
+    "static/js/main.7d8ad4aa.chunk.js"
   ]
 }
